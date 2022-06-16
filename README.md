@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-### *Bookmark in your browser ! Clone the Repository*
+### *Bookmark in your browser ! Clone the Repository for your project use.*
 
 | Title | Repository |
 | ----------------- | ------------------------------------------------------------------|
@@ -24,3 +24,13 @@
 |Javascript Questions|  https://github.com/lydiahallie/javascript-questions |
 |Clean Code Javascript| https://github.com/ryanmcdermott/clean-code-javascript |
 |Free programming books| https://github.com/EbookFoundation/free-programming-books |
+
+
+## Updates
+<!-- Updates -->
+The list will be updated weekly, with awesome new Repositories for your use.
+## Feedback
+<!-- feedback -->
+If you have any feedback, please reach out to us.
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------->
