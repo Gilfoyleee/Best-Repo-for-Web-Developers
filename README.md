@@ -12,7 +12,7 @@
 
 ### *Bookmark in your browser ! Clone the Repository for your project use.*
 
-|Sr| Title | Repository |
+|Sr No.| Title | Repository |
 |------| ----------------- | ------------------------------------------------------------------|
 |1|Web Developer Roadmap | https://github.com/kamranahmedse/developer-roadmap |
 |2|30 Seconds Of Code|  https://github.com/30-seconds/30-seconds-of-code |
