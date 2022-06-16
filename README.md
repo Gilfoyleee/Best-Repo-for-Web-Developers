@@ -1,6 +1,6 @@
 
 
-# Important Repositories for Web Developers
+# Best Repositories for Web Developers
 
 <h1 align="left">
   <a href="https://github.com/Gilfoyleee/Best-Repo-for-Web-Developers">
@@ -27,7 +27,7 @@
 
 ## Credits
 <!-- Credits -->
-Credit to the original authors. Shared for Informative Purpose only. 
+Credit to the original authors. Shared for Informative Purpose only.
 ## Updates
 <!-- Updates -->
 The list will be updated weekly, with awesome new Repositories for your use.
