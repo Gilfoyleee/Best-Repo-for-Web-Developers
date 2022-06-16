@@ -25,7 +25,9 @@
 |9|Clean Code Javascript| https://github.com/ryanmcdermott/clean-code-javascript |
 |10|Free programming books| https://github.com/EbookFoundation/free-programming-books |
 
-
+## Credits
+<!-- Credits -->
+Credit to the original authors. Shared for Informative Purpose only. 
 ## Updates
 <!-- Updates -->
 The list will be updated weekly, with awesome new Repositories for your use.
